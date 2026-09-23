@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SurveyAutomation</string>
+    <string name="accessibility_service_description">Survey Automation Accessibility Service</string>
 </resources>
